@@ -1,0 +1,64 @@
+[28-Aug-2017 23:40:56 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[28-Aug-2017 23:40:56 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[28-Aug-2017 23:40:56 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[29-Aug-2017 08:21:28 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 08:21:28 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 08:21:28 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[29-Aug-2017 10:54:27 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 10:54:27 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 10:54:27 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[29-Aug-2017 21:15:19 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 21:15:19 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 21:15:19 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[29-Aug-2017 23:10:46 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 23:10:46 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[29-Aug-2017 23:10:46 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[02-Sep-2017 17:55:48 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[02-Sep-2017 17:55:48 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[02-Sep-2017 17:55:48 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[02-Sep-2017 18:57:29 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[02-Sep-2017 18:57:29 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[02-Sep-2017 18:57:29 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[03-Sep-2017 12:11:33 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/impactus/public_html/login.php on line 2
+[03-Sep-2017 12:11:44 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:11:45 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:11:45 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:11:46 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:11:47 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:11:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:11:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:12:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING), expecting ',' or ')' in /home/impactus/public_html/login.php on line 3
+[03-Sep-2017 12:18:16 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[03-Sep-2017 12:18:16 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[03-Sep-2017 12:18:16 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[07-Sep-2017 12:52:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/impactus/public_html/scripts/Classes/Login.php:28
+Stack trace:
+#0 /home/impactus/public_html/login.php(11): Login->Logar('spinardione', '0192023a7bbd732...')
+#1 {main}
+  thrown in /home/impactus/public_html/scripts/Classes/Login.php on line 28
+[07-Sep-2017 12:53:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/impactus/public_html/scripts/Classes/Login.php:28
+Stack trace:
+#0 /home/impactus/public_html/login.php(11): Login->Logar('spinardione', '0192023a7bbd732...')
+#1 {main}
+  thrown in /home/impactus/public_html/scripts/Classes/Login.php on line 28
+[07-Sep-2017 12:53:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/impactus/public_html/scripts/Classes/Login.php:28
+Stack trace:
+#0 /home/impactus/public_html/login.php(11): Login->Logar('spinardione', '7402d37e1431288...')
+#1 {main}
+  thrown in /home/impactus/public_html/scripts/Classes/Login.php on line 28
+[07-Sep-2017 12:58:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/impactus/public_html/scripts/Classes/Register.php:389
+Stack trace:
+#0 /home/impactus/public_html/register.php(12): Register->existeUsuario('testeteste')
+#1 {main}
+  thrown in /home/impactus/public_html/scripts/Classes/Register.php on line 389
+[07-Sep-2017 12:59:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/impactus/public_html/scripts/Classes/Login.php:28
+Stack trace:
+#0 /home/impactus/public_html/login.php(11): Login->Logar('spinardione', '0192023a7bbd732...')
+#1 {main}
+  thrown in /home/impactus/public_html/scripts/Classes/Login.php on line 28
+[07-Sep-2017 13:06:19 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[07-Sep-2017 13:06:19 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[07-Sep-2017 13:06:19 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347
+[07-Sep-2017 15:35:18 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[07-Sep-2017 15:35:18 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 344
+[07-Sep-2017 15:35:18 Brazil/East] PHP Notice:  Trying to get property of non-object in /home/impactus/public_html/scripts/Classes/Register.php on line 347

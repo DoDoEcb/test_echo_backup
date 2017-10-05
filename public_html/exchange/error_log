@@ -1,0 +1,21 @@
+[03-Sep-2017 11:55:48 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dbal has a deprecated constructor in /home/impactus/public_html/exchange/models/db/dbal.php on line 35
+[03-Sep-2017 11:55:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/impactus/public_html/exchange/models/db/mysql.php:77
+Stack trace:
+#0 /home/impactus/public_html/exchange/models/config.php(10): dbal_mysql->sql_connect('localhost', 'ffkbe_app', '&%$Wsb3D4433221...', 'testing', '', false, false)
+#1 /home/impactus/public_html/exchange/index.php(3): require_once('/home/impactus/...')
+#2 {main}
+  thrown in /home/impactus/public_html/exchange/models/db/mysql.php on line 77
+[03-Sep-2017 11:58:07 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dbal has a deprecated constructor in /home/impactus/public_html/exchange/models/db/dbal.php on line 35
+[03-Sep-2017 11:58:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/impactus/public_html/exchange/models/db/mysql.php:77
+Stack trace:
+#0 /home/impactus/public_html/exchange/models/config.php(10): dbal_mysql->sql_connect('localhost', 'ffkbe_app', '&%$Wsb3D4433221...', 'testing', '', false, false)
+#1 /home/impactus/public_html/exchange/index.php(3): require_once('/home/impactus/...')
+#2 {main}
+  thrown in /home/impactus/public_html/exchange/models/db/mysql.php on line 77
+[03-Sep-2017 12:48:57 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dbal has a deprecated constructor in /home/impactus/public_html/exchange/models/db/dbal.php on line 35
+[03-Sep-2017 12:48:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/impactus/public_html/exchange/models/db/mysql.php:77
+Stack trace:
+#0 /home/impactus/public_html/exchange/models/config.php(10): dbal_mysql->sql_connect('localhost', 'ffkbe_app', '&%$Wsb3D4433221...', 'testing', '', false, false)
+#1 /home/impactus/public_html/exchange/index.php(3): require_once('/home/impactus/...')
+#2 {main}
+  thrown in /home/impactus/public_html/exchange/models/db/mysql.php on line 77

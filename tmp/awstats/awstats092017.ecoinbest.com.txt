@@ -1,0 +1,405 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201709 will be lost/reset.
+# Last config file used to build this data file was /home/zjjebyri/tmp/awstats/awstats.ecoinbest.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2689                
+POS_VISITOR 9810                
+POS_DAY 9928                
+POS_DOMAIN 3345                
+POS_LOGIN 3576                
+POS_ROBOT 3731                
+POS_WORMS 4088                
+POS_EMAILSENDER 4219                
+POS_EMAILRECEIVER 4362                
+POS_SESSION 10370               
+POS_SIDER 10566               
+POS_FILETYPES 4497                
+POS_DOWNLOADS 4708                
+POS_OS 4795                
+POS_BROWSER 5030                
+POS_SCREENSIZE 5784                
+POS_UNKNOWNREFERER 5858                
+POS_UNKNOWNREFERERBROWSER 6152                
+POS_ORIGIN 6390                
+POS_SEREFERRALS 6526                
+POS_PAGEREFS 6679                
+POS_SEARCHWORDS 6827                
+POS_KEYWORDS 6988                
+POS_MISC 2353                
+POS_ERRORS 7056                
+POS_CLUSTER 3432                
+POS_SIDER_404 7150                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171001021959 68 15048 14627749753295
+FirstTime 20170912120137
+LastTime 20170930210059
+LastUpdate 20171001072830 68 0 67 0 0
+TotalVisits 68                  
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 2214 7 11 374
+1 1 1 49 4 6 561
+2 12 12 4257 3 5 210
+3 0 0 0 14 38 2058526
+4 0 0 0 1 5 0
+5 1 1 187 0 2 0
+6 14 14 4538 10 28 119522
+7 4 4 1042 9 13 0
+8 20 48 1397846 3 15 507
+9 1 1 257 3 5 1695
+10 12 41 2508561 6 15 112010
+11 12 15 7916 10 21 446177
+12 7 7 1346 10 19 748
+13 9 9 1701 11 22 2141
+14 19 20 1025608 1 12 0
+15 8 8 1556 9 16 820
+16 7 7 1211 7 8 147
+17 1 1 187 6 12 472
+18 5 6 49333853 9 15 3588
+19 18 32 752153 4 15 0
+20 24 39 1773065 3 7 201
+21 10 11 1020310 2 5 236
+22 5 5 2470 0 1 0
+23 7 7 2730 14 33 1043699
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 208 300 57843057
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bingpreview 45 3101481 20170930030504 0
+bot[\s_+:,\.\;\/\\-] 32 561233 20170930030449 0
+googlebot 19 120088 20170929065714 0
+spider 13 6701 20170930181231 0
+no_user_agent 10 1322 20170928172628 0
+crawl 5 809 20170928092649 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+zip 1 49333022 0 0
+jpg 7 3220980 0 0
+php 32 49940 0 0
+js 36 487902 0 0
+woff2 10 396264 0 0
+html 166 38677 0 0
+png 11 4099942 0 0
+css 37 216330 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/BINARIO%20ATUALIZADO.zip 1 0 49333022
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+linuxandroid 117 83
+macosx9 1 1
+win8 2 2
+linux 15 15
+Unknown 11 11
+macosx 1 1
+winlong 73 44
+winnt 10 10
+ios_iphone 2 2
+win7 35 21
+linuxubuntu 1 1
+win8.1 27 12
+winxp 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+chrome49.0.2623.112 60 31
+firefox0.10.1 2 2
+msie7.0 1 1
+firefox2.0 1 1
+android 1 1
+chrome52.0.2743.116 1 1
+safari7.0.3 1 1
+firefox34.0 1 1
+msie11.0 1 1
+chrome58.0.3029.110 1 1
+chrome34.0.1847.137 2 2
+chrome60.0.3112.113 6 6
+firefox31.0 1 1
+chrome40.0.2214.115 1 1
+firefox53.0 2 2
+chrome61.0.3163.81 9 9
+chrome30.0.1599.105 1 1
+firefox50.0 2 2
+firefox56.0 17 3
+mozilla 3 3
+chrome41.0.2228.0 2 2
+chrome21.0.1180.89 1 1
+chrome11.0.696.71 4 4
+safari5.1 2 2
+firefox3.5.2 1 1
+firefox49.0 1 1
+firefox33.0 1 1
+Unknown 8 8
+chrome39.0.2171.95 1 1
+chrome31.0.1650.57 2 2
+opera42.9.4509.9237 1 1
+chrome23.0.1271.95 2 2
+chrome61.0.3163.98 116 82
+safari9.0 4 4
+chrome61.0.3163.100 25 10
+msie8.0 14 14
+firefox52.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-requests/2.13.0 20170914025622
+ltx71_-_(http://ltx71.com/) 20170919200552
+Python/3.6_aiohttp/2.2.5 20170917062701
+WhatsApp/2.17.323_A 20170930201411
+Mozilla/5.0_(compatible;_ips-agent) 20170916003549
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+python-requests/2.13.0 20170914025622
+ltx71_-_(http://ltx71.com/) 20170919200552
+WhatsApp/2.17.323_A 20170930201411
+Python/3.6_aiohttp/2.2.5 20170917062701
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 89 89
+From1 1 1
+From2 1 1
+From3 0 0
+From4 117 209
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 2 0
+404 167 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 73
+/administrator/index.php 3 -
+/manager/ 1 -
+/sql.tgz 2 http://ecoinbest.com
+/img/bcg/bg.jpg 1 http://ecoinbest.com/recuperar_senha.php
+/db.zip 2 http://ecoinbest.com
+/SALE/yt-tv.php 1 -
+/sql.zip 1 http://ecoinbest.com
+/site.sql 3 http://ecoinbest.com
+/sql.sql 2 http://ecoinbest.com
+/blog/wp-includes/wlwmanifest.xml 1 -
+/readme.html 1 -
+/admin/content/sitetree/ 1 -
+/dump.gz 2 http://ecoinbest.com
+/wp-admin 1 http://ecoinbest.com
+/modules/node/node.css 1 -
+/db.tar.gz 2 http://ecoinbest.com
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/ecoinbest.com/programador/.ftpquota 5 http://ecoinbest.com/ecoinbest.com/programador/
+/users.sql 2 http://ecoinbest.com
+/db.sql 2 http://ecoinbest.com
+/admin/ 1 -
+/admin.php 2 -
+/xmlrpc.php 4 -
+/backup.sql.gz 2 http://ecoinbest.com
+/backup.sql.bz2 1 http://ecoinbest.com
+/core/CHANGELOG.txt 1 -
+/simpla/ 1 -
+/wp/wp-includes/wlwmanifest.xml 2 198.187.29.77
+/dump.tgz 1 http://ecoinbest.com
+/dump.sql.gz 2 http://ecoinbest.com
+/db_backup.sql 2 http://ecoinbest.com
+/CHANGELOG.txt 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/cgi-bin/ 8 http://ecoinbest.com/
+/dump.sql.zip 2 http://ecoinbest.com
+/mysql.sql 2 http://ecoinbest.com
+/data.sql 2 http://ecoinbest.com
+/temp.sql 2 http://ecoinbest.com
+/robots.txt 45 -
+/sitecore/admin/login.aspx 1 -
+/mysql.zip 1 http://ecoinbest.com
+/1.sql 1 http://ecoinbest.com
+/new/wp-admin/setup-config.php 1 -
+/site/wp-admin/setup-config.php 1 -
+/sql.tar 2 http://ecoinbest.com
+/cloudherb.com/ 2 -
+/dump.tar 2 http://ecoinbest.com
+/sql.tar.gz 1 http://ecoinbest.com
+/admin 1 -
+/db.sql.gz 1 http://ecoinbest.com
+/dump.sql 1 http://ecoinbest.com
+/dump.sql.tgz 1 http://ecoinbest.com
+/dump.zip 2 http://ecoinbest.com
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/sql.gz 1 http://ecoinbest.com
+/README.txt 1 -
+/dbdump.sql 3 http://ecoinbest.com
+/js/mage/cookies.js 1 -
+/media/system/js/core.js 1 -
+/beta/wp-admin/setup-config.php 1 -
+/wp-admin/setup-config.php 1 -
+/ecoinbest.com/programador/ecoinbest.com/ 1 -
+/wp-includes/css/buttons.css 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/dbdump.sql.gz 3 http://ecoinbest.com
+/db.sql.bz2 2 http://ecoinbest.com
+/db.sql.zip 3 http://ecoinbest.com
+/wp-login.php 4 -
+/wp-includes/wlwmanifest.xml 1 -
+/backup.sql 1 http://ecoinbest.com
+/db.tar 2 http://ecoinbest.com
+/dump.tar.gz 2 http://ecoinbest.com
+/ 1 http://whois.domaintools.com/ecoinbest.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+198.187.29.77 208 300 57843057 20170930210059
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20170912 19 19 3734 4
+20170913 12 12 2701 6
+20170914 4 4 855 2
+20170915 14 14 2888 7
+20170916 6 6 1480 4
+20170917 3 3 701 3
+20170918 2 2 444 2
+20170919 7 7 1323 5
+20170920 2 2 374 2
+20170921 4 4 785 2
+20170922 6 6 1243 1
+20170923 38 54 51113599 5
+20170924 13 27 748452 4
+20170926 5 5 2888 1
+20170927 24 39 1720801 5
+20170928 5 8 2470 2
+20170929 11 25 698761 5
+20170930 33 63 3539558 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 47
+30mn-1h 5
+15mn-30mn 3
+30s-2mn 2
+1h+ 3
+5mn-15mn 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 97 14928 64 48
+/images/ 28 13076 2 13
+/login.php 27 39567 0 0
+/painel/ 19 5980 0 0
+/ecoinbest.com/ 12 2491 1 0
+/ecoinbest.com/programador/ 10 2202 0 5
+/font/material-design-icons/Material-Design-Icons.woff2 6 199320 0 2
+/register.php 4 8947 1 0
+/font/roboto/Roboto-Regular.woff2 4 196944 0 0
+/recuperar_senha.php 1 1426 0 0
+END_SIDER

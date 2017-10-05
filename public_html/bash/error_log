@@ -1,0 +1,561 @@
+[17-Nov-2016 07:47:14 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 07:48:36 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 08:43:47 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 12:57:44 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 12:57:50 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 13:13:01 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/bitdolarscom/public_html/bash/profile.php:59
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/profile.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/profile.php on line 59
+[17-Nov-2016 14:21:13 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 14:21:25 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 16:47:51 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[17-Nov-2016 21:31:52 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[18-Nov-2016 13:50:27 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[21-Nov-2016 11:51:37 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[24-Nov-2016 15:51:44 Brazil/East] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.username' in 'field list'' in /home/bitdolarscom/public_html/bash/upgrade-request.php:91
+Stack trace:
+#0 /home/bitdolarscom/public_html/bash/upgrade-request.php(91): PDO->prepare('SELECT *,f.user...')
+#1 {main}
+  thrown in /home/bitdolarscom/public_html/bash/upgrade-request.php on line 91
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 09:32:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 09:33:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 11:35:27 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 11:44:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 11:46:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 11:46:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 11:46:41 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 11:58:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 12:00:55 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 12:09:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 12:10:30 America/Sao_Paulo] PHP Notice:  Undefined index: admuser in /home/impactus/public_html/bash/logicas.php on line 6
+[29-Aug-2017 12:10:30 America/Sao_Paulo] PHP Notice:  Undefined index: admpass in /home/impactus/public_html/bash/logicas.php on line 7
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 12:10:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 12:22:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 12:25:57 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 12:26:26 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 14:15:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 14:28:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 19:14:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 19:15:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 19:15:50 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[29-Aug-2017 19:15:50 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 19:16:29 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 19:24:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 23:07:30 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 23:08:48 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[29-Aug-2017 23:09:37 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[29-Aug-2017 23:09:46 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[29-Aug-2017 23:09:46 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[29-Aug-2017 23:09:53 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[29-Aug-2017 23:09:53 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[29-Aug-2017 23:10:01 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[29-Aug-2017 23:10:01 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[30-Aug-2017 10:08:10 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[30-Aug-2017 10:16:24 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[30-Aug-2017 11:09:16 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[30-Aug-2017 19:50:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[30-Aug-2017 20:08:13 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[30-Aug-2017 20:08:38 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[30-Aug-2017 20:08:43 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[01-Sep-2017 11:41:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[01-Sep-2017 16:26:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[01-Sep-2017 16:28:35 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[01-Sep-2017 16:28:35 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[02-Sep-2017 10:26:39 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[02-Sep-2017 10:27:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[02-Sep-2017 11:37:48 America/Sao_Paulo] PHP Notice:  Undefined index: admuser in /home/impactus/public_html/bash/logicas.php on line 6
+[02-Sep-2017 11:37:48 America/Sao_Paulo] PHP Notice:  Undefined index: admpass in /home/impactus/public_html/bash/logicas.php on line 7
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[03-Sep-2017 12:38:20 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[03-Sep-2017 12:38:58 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[06-Sep-2017 10:23:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[14-Sep-2017 23:19:21 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[14-Sep-2017 23:19:47 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[14-Sep-2017 23:20:32 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[14-Sep-2017 23:23:20 America/Sao_Paulo] PHP Notice:  Undefined index: admuser in /home/impactus/public_html/bash/logicas.php on line 6
+[14-Sep-2017 23:23:20 America/Sao_Paulo] PHP Notice:  Undefined index: admpass in /home/impactus/public_html/bash/logicas.php on line 7
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[15-Sep-2017 15:06:05 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[15-Sep-2017 15:06:45 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[19-Sep-2017 22:45:34 America/Sao_Paulo] PHP Notice:  Undefined index: admuser in /home/impactus/public_html/bash/logicas.php on line 6
+[19-Sep-2017 22:45:34 America/Sao_Paulo] PHP Notice:  Undefined index: admpass in /home/impactus/public_html/bash/logicas.php on line 7
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[19-Sep-2017 22:45:34 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[19-Sep-2017 22:46:11 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:20:31 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:25:51 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[20-Sep-2017 19:25:51 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[20-Sep-2017 19:26:10 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[20-Sep-2017 19:26:10 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[20-Sep-2017 19:26:31 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[20-Sep-2017 19:26:31 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[20-Sep-2017 19:26:47 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[20-Sep-2017 19:26:47 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[20-Sep-2017 19:26:57 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 58
+[20-Sep-2017 19:26:57 Brazil/East] PHP Notice:  Undefined index: edit_user in /home/impactus/public_html/bash/profile.php on line 228
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:27:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:33:56 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:34:03 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:34:09 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:34:14 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:34:17 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_dolar in /home/impactus/public_html/bash/index.php on line 68
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_users_Entrada_btc in /home/impactus/public_html/bash/index.php on line 69
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_users_ativo in /home/impactus/public_html/bash/index.php on line 72
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_users_Online in /home/impactus/public_html/bash/index.php on line 73
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_plan_b in /home/impactus/public_html/bash/index.php on line 74
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_plan_p in /home/impactus/public_html/bash/index.php on line 75
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_plan_o in /home/impactus/public_html/bash/index.php on line 76
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_plan_e in /home/impactus/public_html/bash/index.php on line 77
+[20-Sep-2017 19:49:02 Brazil/East] PHP Notice:  Undefined variable: N_plan_d in /home/impactus/public_html/bash/index.php on line 78
